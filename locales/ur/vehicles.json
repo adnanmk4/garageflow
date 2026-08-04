@@ -1,0 +1,9 @@
+{
+  "vehicles": {
+    "historyTitle": "گاڑی کی تاریخ",
+    "jobsCount": "{count} جاب(ز) ریکارڈ پر",
+    "noJobs": "اس گاڑی کے لیے ابھی تک کوئی جاب ریکارڈ نہیں ہوئی",
+    "mileage": "مائلیج",
+    "viewFullHistory": "{regNumber} کی مکمل تاریخ دیکھیں"
+  }
+}

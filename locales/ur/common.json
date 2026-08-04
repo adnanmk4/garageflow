@@ -1,0 +1,44 @@
+{
+  "app": {
+    "name": "گیراج فلو"
+  },
+  "auth": {
+    "login": "لاگ ان کریں",
+    "register": "ورکشاپ اکاؤنٹ بنائیں",
+    "workshopName": "ورکشاپ کا نام",
+    "ownerName": "آپ کا نام",
+    "phone": "فون نمبر",
+    "password": "پاس ورڈ",
+    "loginButton": "لاگ ان کریں",
+    "registerButton": "اکاؤنٹ بنائیں",
+    "noAccount": "ورکشاپ اکاؤنٹ نہیں ہے؟",
+    "haveAccount": "پہلے سے اکاؤنٹ ہے؟",
+    "signUpLink": "سائن اپ کریں",
+    "loginLink": "لاگ ان کریں"
+  },
+  "nav": {
+    "dashboard": "ڈیش بورڈ",
+    "newJob": "نئی جاب",
+    "jobs": "جابز",
+    "settings": "ترتیبات",
+    "logout": "لاگ آؤٹ"
+  },
+  "dashboard": {
+    "todaysJobs": "آج کی جابز",
+    "pendingJobs": "زیر التواء جابز",
+    "completedJobs": "مکمل جابز",
+    "revenueToday": "آج کی آمدنی",
+    "revenueMonth": "اس مہینے کی آمدنی",
+    "outstanding": "باقی ادائیگیاں",
+    "recentJobs": "حالیہ جابز",
+    "quickActions": "فوری اقدامات",
+    "newJob": "نئی جاب",
+    "searchVehicle": "گاڑی تلاش کریں",
+    "generateInvoice": "انوائس بنائیں",
+    "noJobsYet": "ابھی تک کوئی جاب نہیں — شروع کرنے کے لیے اپنی پہلی جاب بنائیں۔"
+  },
+  "language": {
+    "english": "English",
+    "urdu": "اردو"
+  }
+}

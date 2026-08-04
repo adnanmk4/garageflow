@@ -1,0 +1,9 @@
+{
+  "vehicles": {
+    "historyTitle": "Vehicle History",
+    "jobsCount": "{count} job(s) on record",
+    "noJobs": "No jobs recorded for this vehicle yet",
+    "mileage": "Mileage",
+    "viewFullHistory": "View full history for {regNumber}"
+  }
+}

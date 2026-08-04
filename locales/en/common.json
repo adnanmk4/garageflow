@@ -1,0 +1,44 @@
+{
+  "app": {
+    "name": "GarageFlow"
+  },
+  "auth": {
+    "login": "Log In",
+    "register": "Create Workshop Account",
+    "workshopName": "Workshop Name",
+    "ownerName": "Your Name",
+    "phone": "Phone Number",
+    "password": "Password",
+    "loginButton": "Log In",
+    "registerButton": "Create Account",
+    "noAccount": "Don't have a workshop account?",
+    "haveAccount": "Already have an account?",
+    "signUpLink": "Sign up",
+    "loginLink": "Log in"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "newJob": "New Job",
+    "jobs": "Jobs",
+    "settings": "Settings",
+    "logout": "Log Out"
+  },
+  "dashboard": {
+    "todaysJobs": "Today's Jobs",
+    "pendingJobs": "Pending Jobs",
+    "completedJobs": "Completed Jobs",
+    "revenueToday": "Revenue Today",
+    "revenueMonth": "Revenue This Month",
+    "outstanding": "Outstanding Payments",
+    "recentJobs": "Recent Jobs",
+    "quickActions": "Quick Actions",
+    "newJob": "New Job",
+    "searchVehicle": "Search Vehicle",
+    "generateInvoice": "Generate Invoice",
+    "noJobsYet": "No jobs yet — create your first job to get started."
+  },
+  "language": {
+    "english": "English",
+    "urdu": "اردو"
+  }
+}

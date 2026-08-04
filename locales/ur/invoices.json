@@ -1,0 +1,13 @@
+{
+  "invoices": {
+    "generateInvoice": "انوائس بنائیں",
+    "generating": "انوائس بن رہی ہے...",
+    "generateError": "انوائس نہیں بن سکی۔ براہ کرم دوبارہ کوشش کریں۔",
+    "print": "پرنٹ (A4)",
+    "printReceipt": "رسید پرنٹ کریں",
+    "downloadPdf": "پی ڈی ایف ڈاؤن لوڈ کریں",
+    "shareWhatsapp": "واٹس ایپ پر شیئر کریں",
+    "invoiceNumber": "انوائس نمبر {number}",
+    "scanToView": "یہ انوائس آن لائن دیکھنے کے لیے اسکین کریں"
+  }
+}

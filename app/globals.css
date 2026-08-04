@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+:root {
+  /* GarageFlow brand palette */
+  --color-primary: #2563eb;
+  --color-primary-foreground: #ffffff;
+  --color-accent: #f97316;
+  --color-accent-foreground: #ffffff;
+  --color-success: #22c55e;
+  --color-success-foreground: #ffffff;
+  --color-danger: #ef4444;
+  --color-danger-foreground: #ffffff;
+
+  --background: #f7f8fa;
+  --foreground: #0f172a;
+  --card: #ffffff;
+  --card-foreground: #0f172a;
+  --muted: #f1f5f9;
+  --muted-foreground: #64748b;
+  --border: #e2e8f0;
+  --input: #e2e8f0;
+  --ring: #2563eb;
+
+  --radius: 1rem;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-primary: var(--color-primary);
+  --color-primary-foreground: var(--color-primary-foreground);
+  --color-accent: var(--color-accent);
+  --color-accent-foreground: var(--color-accent-foreground);
+  --color-success: var(--color-success);
+  --color-success-foreground: var(--color-success-foreground);
+  --color-danger: var(--color-danger);
+  --color-danger-foreground: var(--color-danger-foreground);
+  --font-sans: "Segoe UI", system-ui, -apple-system, "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", Roboto, sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 4px);
+  --radius-sm: calc(var(--radius) - 8px);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Big, forgiving touch targets everywhere by default */
+button, a, input, select, textarea {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* RTL support: logical properties handle most of this automatically via Tailwind,
+   this covers anything hand-rolled */
+[dir="rtl"] .flip-rtl {
+  transform: scaleX(-1);
+}

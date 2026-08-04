@@ -1,0 +1,13 @@
+{
+  "invoices": {
+    "generateInvoice": "Generate Invoice",
+    "generating": "Generating...",
+    "generateError": "Couldn't generate the invoice. Please try again.",
+    "print": "Print (A4)",
+    "printReceipt": "Print Receipt",
+    "downloadPdf": "Download PDF",
+    "shareWhatsapp": "Share on WhatsApp",
+    "invoiceNumber": "Invoice #{number}",
+    "scanToView": "Scan to view this invoice online"
+  }
+}
