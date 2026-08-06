@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import { getRequestIdentity } from "@/lib/auth/requestIdentity";
+
+export const revalidate = 15;
 import { getDashboardSummary } from "@/lib/dashboard/getSummary";
 import { StatCard } from "@/components/shared/StatCard";
 import { Button } from "@/components/ui/button";
